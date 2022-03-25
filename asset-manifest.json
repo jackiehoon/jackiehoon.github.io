@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.7e248203.css",
-    "main.js": "/static/js/main.3185f598.js",
+    "main.js": "/static/js/main.ae16151d.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/youtube.svg": "/static/media/youtube.7749f52cb1fd694012da07bb8c1c4009.svg",
     "static/media/clip.svg": "/static/media/clip.e2becb443ff634d92e54a3a8c9502787.svg",
+    "index.html": "/index.html",
     "static/media/like.svg": "/static/media/like.a0f80b7dbab4c9f4132507e1e6e9d775.svg",
     "static/media/dislike.svg": "/static/media/dislike.052ad103bbe647b9d5a60573f56d072f.svg",
-    "index.html": "/index.html",
     "static/media/bell.svg": "/static/media/bell.7f11b0faceb768324dd66d1e2406078f.svg",
     "static/media/youtube-apps.svg": "/static/media/youtube-apps.81ff266c449124d1ca173706e29acc3a.svg",
     "static/media/more.svg": "/static/media/more.886c6e5e2da02f5884a0b9eccaca304f.svg",
@@ -18,11 +18,11 @@
     "static/media/save.svg": "/static/media/save.cb46f3a14f4e0dd4ff02b6ebc17b0506.svg",
     "static/media/hamburger.svg": "/static/media/hamburger.25a768342f4be849d0a456b10cdd2658.svg",
     "main.7e248203.css.map": "/static/css/main.7e248203.css.map",
-    "main.3185f598.js.map": "/static/js/main.3185f598.js.map",
+    "main.ae16151d.js.map": "/static/js/main.ae16151d.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e248203.css",
-    "static/js/main.3185f598.js"
+    "static/js/main.ae16151d.js"
   ]
 }
